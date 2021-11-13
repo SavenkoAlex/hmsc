@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = /home/aleks/Projects/hmcs/backend
+[submodule "frontend"]
+	path = frontend
+	url = /home/aleks/Projects/hmcs/frontend
