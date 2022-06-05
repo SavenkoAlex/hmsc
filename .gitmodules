@@ -2,6 +2,6 @@
 	path = backend
 	url = /home/aleks/Projects/hmcs/backend
 	branch = main
-[submodule "frontend"]
+[submodule "hmcs-frontend-client"]
 	path = frontend
-	url = /home/aleks/Projects/hmcs/frontend
+	url = /home/aleks/Projects/hmcs/hmcs-frontend-client
